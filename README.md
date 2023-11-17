@@ -1,6 +1,6 @@
 ![I am full-stack web developer. Welcome to my GitHub profile.](https://pbs.twimg.com/profile_banners/1049694893554032641/1700156146/1500x500)
-### Hi there 👋, my name is Naimur Rahman
-#### I am full-stack web developer. Welcome to my GitHub profile.
+### Hi, I am Naimur Rahman
+#### I am a full-stack web developer. Welcome to my GitHub profile.
 
 
 
