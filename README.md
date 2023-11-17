@@ -3,7 +3,7 @@
 #### I am a full-stack web developer. Welcome to my GitHub profile.
 
 
-
+</br>
 <h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
