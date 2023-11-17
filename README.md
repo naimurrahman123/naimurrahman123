@@ -5,7 +5,7 @@
 
 </br>
 <p align="left">
-  <h3 align="left">Skills: </h3>
+  <span font-weight="bold" align="left">Skills: </span>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
