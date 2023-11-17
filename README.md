@@ -4,7 +4,7 @@
 
 
 </br>
-<h3 align="left">Skills:</h3>
+<h2 align="center">Skills:</h2>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
