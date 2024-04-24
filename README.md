@@ -3,8 +3,8 @@
 
 # 💫 About Me:
 
-### Welcome to my profile
-I'm Naimur Rahman from Bangladesh. Currently, I am studying at the Bangladesh University of Textiles. But I am very keen to enter the tech world. It's my passion to learn coding. I have already learned the MERN stack and also been introduced to some related technologies. I did several projects during my learning period. And now, I am focusing on Data Structure and Algorithm (DSA). So, I have started learning C++ and after it, I will jump into DSA.  
+### Welcome to my profile!
+I'm Naimur Rahman from Bangladesh, currently studying at the Bangladesh University of Textiles. However, I'm very keen to enter the tech world. Learning coding is my passion. I have already mastered the MERN stack and have been introduced to some related technologies, including Next.js, Auth.js, and Redux Toolkit. During my learning period, I completed several projects. Now, I am focusing on Data Structures and Algorithms (DSA). Thus, I have started learning C++, and afterward, I will delve into DSA. 
 
 </br>
 
